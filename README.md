@@ -1,7 +1,7 @@
 ![I am Web Developer](https://pbs.twimg.com/profile_banners/4204104494/1692117556/1500x500)
 
 ### Hi there 👋, Manchur Iqbal
-#### I am Web Developer
+#### I am Software Developer
 
 I'm a Back End developer who is passionate about making error-free websites. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Django but some technologies I enjoy working with include VueJS, JavaScript.
 
